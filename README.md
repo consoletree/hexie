@@ -22,7 +22,7 @@ Enter the hex color code as an argument with hexie.
  
 `hexie "#ffff00"`
 
-**Note: Be sure to add the hex code inside "". Else you will be greeted with a ugly error!**
+**Note: Be sure to add the hex code inside " ". Else you will be greeted with a ugly error!**
 
 If you don't know what a hex color is go to:
-    [What is a hex color?](https://en.wikipedia.org/wiki/Web_colors)
+    [Wikipedia:Web Colors?](https://en.wikipedia.org/wiki/Web_colors)
