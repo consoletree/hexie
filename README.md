@@ -8,7 +8,7 @@ A dead simple Bash script to display colors from hex color codes - comprised in 
 ## Install
 
 ```
-git clone https://
+git clone https://github.com/celestialbe-ing/hexie
 cd hexie/
 chmod +x hexie
 sudo mv hexie /usr/bin
