@@ -5,7 +5,7 @@ Bonjour to the Hexie way!
 
 A dead simple Bash script to display colors from hex color codes - comprised in a single line.
 
-![Screenshot](scrshot.png)
+![Screenshot](Example.png)
 
 ## Install
 
