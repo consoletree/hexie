@@ -1,5 +1,6 @@
 # hexie
-No more looking up random colorpicker websites!
+
+No more looking up random bloated colorpicker websites!
 Bonjour to the Hexie way!
 
 A dead simple Bash script to display colors from hex color codes - comprised in a single line.
