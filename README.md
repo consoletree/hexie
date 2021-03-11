@@ -11,7 +11,7 @@ A dead simple Bash script to display colors from hex color codes - comprised in 
 git clone https://github.com/celestialbe-ing/hexie
 cd hexie/
 chmod +x hexie
-sudo mv hexie /usr/bin
+sudo mv hexie /usr/bin/
 ```
 ## Usage
 
