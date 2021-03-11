@@ -1,6 +1,4 @@
 # hexie
-Hex color viewer
-
 No more looking up random colorpicker websites!
 Bonjour to the Hexie way!
 
@@ -11,6 +9,7 @@ A dead simple Bash script to display colors from hex color codes - comprised in 
 ```
 git clone https://
 cd hexie/
+chmod +x hexie
 sudo mv hexie /usr/bin
 ```
 ## Usage
