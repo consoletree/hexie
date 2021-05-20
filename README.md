@@ -12,7 +12,7 @@ A dead simple Bash script to display colors from hex color codes - comprised in 
 ## Install
 
 ```
-git clone https://github.com/celestialbe-ing/hexie
+git clone https://github.com/consoletree/hexie
 cd hexie/
 chmod +x hexie
 sudo mv hexie /usr/bin/
